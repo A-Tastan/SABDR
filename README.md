@@ -11,7 +11,6 @@ real-world data demonstrate the effectiveness of SABDR in different subspace clu
 
 For details, see:
 
-[1] A. Tastan, M. Muma, E. Ollila and A. M. Zoubir, "Sparsity-Aware Block Diagonal Representation for Subspace Clustering," in Proc. Int. Conf. Acoust. 
-Speech Signal Process.(submitted), 2023.
+[1] A. Tastan, M. Muma, E. Ollila and A. M. Zoubir, "Sparsity-Aware Block Diagonal Representation for Subspace Clustering," in Proc. 31th European Signal Process. Conf. (submitted), 2023.
 
 The codes will be available after the acceptence.
